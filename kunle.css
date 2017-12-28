@@ -1,0 +1,20 @@
+
+@media (min-width:500px) 
+{
+
+	.responsive{
+		display: inline-block;
+		width: 200px;
+		border: 2px solid black;
+}
+}
+
+@media (min-width:1000px) 
+{
+
+	.responsive{
+		display: inline-block;
+		width: 500px;
+		border: 2px solid black;
+}
+}
